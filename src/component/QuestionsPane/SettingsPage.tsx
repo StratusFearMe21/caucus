@@ -70,6 +70,7 @@ const Settings = () => {
           <MenuItem value={"python"}>Python</MenuItem>
           <MenuItem value={"javascript"}>JavaScript</MenuItem>
           <MenuItem value={"go"}>Go</MenuItem>
+          <MenuItem value={"rust"}>Rust</MenuItem>
         </Select>
       </CssFormControl>
 
